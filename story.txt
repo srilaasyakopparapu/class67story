@@ -1,2 +1,3 @@
 Tom is a cat and Jerry is a mouse.
 Tom chases Jerry. 
+Tom is very fast but Jerry is faster.
